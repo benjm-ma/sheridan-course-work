@@ -1,6 +1,6 @@
 # Executables
 *.exe
-*.out
+*.bin
 
 # Directories
 vendor/
